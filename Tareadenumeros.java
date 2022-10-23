@@ -5,6 +5,7 @@ public class Tareadenumeros{
         numero = 8;
         numero = 10;
         numero = 7;
+        numero = 13;
 
         // Esto imprime la operación
         if (numero%2==0){
@@ -15,4 +16,4 @@ public class Tareadenumeros{
         }
         }
 }
-//Nos dará qué valor toma el último de los números, es decir si el último número es 10, va a imprimir que es par 
+//Nos dará qué valor toma el último de los números, es decir si el último número es 13, va a imprimir que es impar 
